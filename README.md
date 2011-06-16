@@ -4,6 +4,7 @@ FitText makes font-sizes flexible. Use this plugin on your fluid or responsive l
 ## How it works
 If you're working on a responsive design, take whatever headline you'd like to scale and set the item to FitText. Oh. and you'll want to include jQuery n' all that too.
 jQuery:
+
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="jquery.fittext.js"></script>
     <script>
@@ -11,6 +12,7 @@ jQuery:
     </script>
 
 Prototype:
+
     <script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
     <script src="prototype.fittext.js"></script>
     <script>
